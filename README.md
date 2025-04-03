@@ -24,6 +24,6 @@ Porque incluso las garras más afiladas vienen con patitas suaves.
 ## ⚙️ Quickstart
 
 ```bash
-git clone https://github.com/0xGhostSec/purpl35p4c3.git
+git clone https://github.com/l1ttl3bugc4t/purpl35p4c3.git
 cd purpl35p4c3/src
 python3 kittyscan.py
