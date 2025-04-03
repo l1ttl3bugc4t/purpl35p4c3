@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner_purplecat.gif" alt="Purpl35p4c3" />
+  <img src="assets/banner_purplecat.png" alt="Purpl35p4c3" />
 </p>
 
 # 💜 purpl35p4c3
