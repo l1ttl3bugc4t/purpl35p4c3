@@ -1,1 +1,29 @@
-# purpl35p4c3
+<p align="center">
+  <img src="assets/banner_purplecat.gif" alt="Purpl35p4c3" />
+</p>
+
+# 💜 purpl35p4c3
+
+> “We don’t just hack the planet. We purr on it first.” — l1ttl3bugc4t 🐾
+
+Bienvenida al **espacio púrpura** de herramientas felinas para hacking ético y red team.  
+Este repositorio mezcla poder, sigilo y ternura.  
+Porque incluso las garras más afiladas vienen con patitas suaves.
+
+---
+
+## 🔍 ¿Qué encontrarás aquí?
+
+- 🐾 Scripts personalizados para enumeración, evasión, post-explotación.
+- 🐱 Herramientas ofensivas con conciencia ética.
+- ✨ Documentación que brilla y no abruma.
+- 👩‍💻 Operaciones inspiradas por gatos sigilosos (y a veces ruidosos).
+
+---
+
+## ⚙️ Quickstart
+
+```bash
+git clone https://github.com/0xGhostSec/purpl35p4c3.git
+cd purpl35p4c3/src
+python3 kittyscan.py
