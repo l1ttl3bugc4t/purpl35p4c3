@@ -6,7 +6,7 @@
 
 > “We don’t just hack the planet. We purr on it first.” — l1ttl3bugc4t 🐾
 
-Bienvenida al **espacio púrpura** de herramientas felinas para hacking ético y red team.  
+Bienvenida al **espacio púrpura** de herramientas felinas para multiples propósitos.  
 Este repositorio mezcla poder, sigilo y ternura.  
 Porque incluso las garras más afiladas vienen con patitas suaves.
 
