@@ -14,7 +14,7 @@ Porque incluso las garras más afiladas vienen con patitas suaves.
 
 ## 🔍 ¿Qué encontrarás aquí?
 
-- 🐾 Scripts personalizados para enumeración, evasión, post-explotación.
+- 🐾 Scripts personalizados para diferentes propósitos
 - 🐱 Herramientas ofensivas con conciencia ética.
 - ✨ Documentación que brilla y no abruma.
 - 👩‍💻 Operaciones inspiradas por gatos sigilosos (y a veces ruidosos).
