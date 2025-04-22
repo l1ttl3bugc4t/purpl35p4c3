@@ -52,10 +52,7 @@ if [ $? -eq 124 ]; then
 fi
 
 # 🐾 Extracción de puertos
-PORTS=$(grep "Ports:" "$OUTPUT_DIR/nmap_ports.gnmap" | \
-        grep -oP '\\d+/open' | \
-        cut -d/ -f1 | \
-        sort -n | uniq | paste -sd, -)
+PORTS=$(grep "Ports:" "$OUTPUT_DIR/nmap_ports.gnmap" |         grep -oP '\d+/open' |         cut -d/ -f1 |         sort -n | uniq | paste -sd, -)
 
 if [ -z "$PORTS" ]; then
   echo "🫥 No se detectaron puertos abiertos."
